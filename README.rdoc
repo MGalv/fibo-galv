@@ -4,6 +4,8 @@ Simple gem that finds the largest integer value from the Fibonacci Sequence smal
 
 == Example use
 
+12.fibonacci => 144
+
 156.closest_fibonacci => 144
 99.closest_fibonacci => 89
 
