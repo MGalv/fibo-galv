@@ -1,6 +1,11 @@
 = fibo-galv
 
-Description goes here.
+Simple gem that finds the largest integer value from the Fibonacci Sequence smaller than the given integer.
+
+== Example use
+
+156.closest_fibonacci => 144
+99.closest_fibonacci => 89
 
 == Contributing to fibo-galv
  
